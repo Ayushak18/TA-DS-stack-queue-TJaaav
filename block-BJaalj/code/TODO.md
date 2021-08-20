@@ -32,4 +32,8 @@ console.log(binarySearch(list, 54)); // 8
 
 - Compare the worst case complexity (Big O Notation) of linear search and binary search. Compare linear search and binary search
 
+<!-- Big O notation of linear search is O(N) and for binary search it is O(log N) -->
+
 - Assume you have a list of `240,000` items and we want to search for a particular value. In the worst case situation how many times we will run the loop in the case of binary search algorithm and linear search algorithm.
+
+<!-- For linear search it will run the loop for 240,000 and for binary search it will run for 18 -->
